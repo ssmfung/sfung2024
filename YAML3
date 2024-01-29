@@ -1,0 +1,12 @@
+---
+Env_Conf:
+  - Dev_Env:
+      DB_Connection:
+        Hostname: "dev-db.example.com"
+        Port: 3306
+      API_Key: abc123
+  - Prd_Env:
+      DB_Connection:
+        Hostname: "prod-db.example.com"
+        Port: 5432
+      API_Key: xyz789  
