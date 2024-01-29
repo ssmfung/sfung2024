@@ -1,10 +1,10 @@
 ---
 DB_Config:
-  - Hostname: localhost
-  - Port: 3306
-  - Username: myuser
-  - Password: mypassword
+  Hostname: localhost
+  Port: 3306
+  Username: myuser
+  Password: mypassword
 
 App_Settings:
-  - App_Name: myapp
-  - Debug_mode: true
+  App_Name: myapp
+  Debug_mode: true
